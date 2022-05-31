@@ -2,7 +2,7 @@
 TurboModeler for IBM Planning Analytics (x64)
 
 
-Turbo Modeler is a ODATA replacement for the classic TM1 Architect desktop modeling tool.  It provides TM1 modeling and adminisrtation capabiltiies for current versions of the TM1 database.
+Turbo Modeler is a ODATA replacement for the classic TM1 Architect desktop modeling tool.  It provides TM1 modeling and adminisrtation capabiltiies for current versions of the TM1 from Planning Anallytics Local, Planning Analytics on Cloud, and Cloud Pak for Data Planning Analytics.
 
 Features include:
 
